@@ -4,5 +4,4 @@
        //die("ยังไม่ได้ล็อกอิน!!");
        header("location: index.php");
    }
-
 ?>
